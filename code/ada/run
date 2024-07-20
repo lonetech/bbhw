@@ -1,0 +1,3 @@
+#! /bin/sh -e
+gnat make bbhw
+./bbhw "$@"
